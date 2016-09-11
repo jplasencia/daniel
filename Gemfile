@@ -39,6 +39,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+gem "capybara"
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
